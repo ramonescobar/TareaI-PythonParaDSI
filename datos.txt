@@ -1,0 +1,3 @@
+Nombre: Ramon
+Edad: 23
+Sexo: M
